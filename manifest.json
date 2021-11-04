@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "KT Fantasy",
+  "short_name": "KT Fantasy",
+  "scope": "/Fantasy/index.html",
+  "display": "fullscreen",
+  "start_url": "/Fantasy/index.html",
+  "background_color": "transparent",
+  "theme_color": "transparent",
+  "orientation": "any",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "assets/chrome.png",
+      "sizes": "192x192"
+    },
+    {
+      "src":"assets/chrome1.png",
+      "sizes":"512x512",
+      "type":"image/png"
+      }
+  ]
+}
